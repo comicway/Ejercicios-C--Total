@@ -1,0 +1,8 @@
+C:\Users\moise\Documents\Porgramacion\C#\DesafioSumaIngresoUsuario\DesafioSumaIngresoUsuario\bin\Debug\DesafioSumaIngresoUsuario.exe.config
+C:\Users\moise\Documents\Porgramacion\C#\DesafioSumaIngresoUsuario\DesafioSumaIngresoUsuario\bin\Debug\DesafioSumaIngresoUsuario.exe
+C:\Users\moise\Documents\Porgramacion\C#\DesafioSumaIngresoUsuario\DesafioSumaIngresoUsuario\bin\Debug\DesafioSumaIngresoUsuario.pdb
+C:\Users\moise\Documents\Porgramacion\C#\DesafioSumaIngresoUsuario\DesafioSumaIngresoUsuario\obj\Debug\DesafioSumaIngresoUsuario.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\Porgramacion\C#\DesafioSumaIngresoUsuario\DesafioSumaIngresoUsuario\obj\Debug\DesafioSumaIngresoUsuario.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Documents\Porgramacion\C#\DesafioSumaIngresoUsuario\DesafioSumaIngresoUsuario\obj\Debug\DesafioSumaIngresoUsuario.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\Porgramacion\C#\DesafioSumaIngresoUsuario\DesafioSumaIngresoUsuario\obj\Debug\DesafioSumaIngresoUsuario.exe
+C:\Users\moise\Documents\Porgramacion\C#\DesafioSumaIngresoUsuario\DesafioSumaIngresoUsuario\obj\Debug\DesafioSumaIngresoUsuario.pdb

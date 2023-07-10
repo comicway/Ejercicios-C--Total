@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploMetodo-V1", "EjemploMetodo-V1\EjemploMetodo-V1.csproj", "{E900803D-7394-4A83-9148-AA3828C1CE5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E900803D-7394-4A83-9148-AA3828C1CE5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E900803D-7394-4A83-9148-AA3828C1CE5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E900803D-7394-4A83-9148-AA3828C1CE5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E900803D-7394-4A83-9148-AA3828C1CE5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1529AFA-A8E5-4873-8754-2B6C2622C361}
+	EndGlobalSection
+EndGlobal

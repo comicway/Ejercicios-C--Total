@@ -1,0 +1,8 @@
+C:\Users\moise\Documents\Porgramacion\C#\TiposDeDatos\TiposDeDatos\bin\Debug\TiposDeDatos.exe.config
+C:\Users\moise\Documents\Porgramacion\C#\TiposDeDatos\TiposDeDatos\bin\Debug\TiposDeDatos.exe
+C:\Users\moise\Documents\Porgramacion\C#\TiposDeDatos\TiposDeDatos\bin\Debug\TiposDeDatos.pdb
+C:\Users\moise\Documents\Porgramacion\C#\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\Porgramacion\C#\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Documents\Porgramacion\C#\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\Porgramacion\C#\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.exe
+C:\Users\moise\Documents\Porgramacion\C#\TiposDeDatos\TiposDeDatos\obj\Debug\TiposDeDatos.pdb

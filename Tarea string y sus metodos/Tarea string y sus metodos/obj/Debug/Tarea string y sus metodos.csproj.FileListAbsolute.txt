@@ -1,0 +1,8 @@
+C:\Users\moise\Documents\Porgramacion\C#\Tarea string y sus metodos\Tarea string y sus metodos\bin\Debug\Tarea string y sus metodos.exe.config
+C:\Users\moise\Documents\Porgramacion\C#\Tarea string y sus metodos\Tarea string y sus metodos\bin\Debug\Tarea string y sus metodos.exe
+C:\Users\moise\Documents\Porgramacion\C#\Tarea string y sus metodos\Tarea string y sus metodos\bin\Debug\Tarea string y sus metodos.pdb
+C:\Users\moise\Documents\Porgramacion\C#\Tarea string y sus metodos\Tarea string y sus metodos\obj\Debug\Tarea string y sus metodos.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\Porgramacion\C#\Tarea string y sus metodos\Tarea string y sus metodos\obj\Debug\Tarea string y sus metodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Documents\Porgramacion\C#\Tarea string y sus metodos\Tarea string y sus metodos\obj\Debug\Tarea string y sus metodos.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\Porgramacion\C#\Tarea string y sus metodos\Tarea string y sus metodos\obj\Debug\Tarea string y sus metodos.exe
+C:\Users\moise\Documents\Porgramacion\C#\Tarea string y sus metodos\Tarea string y sus metodos\obj\Debug\Tarea string y sus metodos.pdb

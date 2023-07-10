@@ -1,0 +1,8 @@
+C:\Users\moise\Documents\Porgramacion\C#\Desafio tipo datos variables\Desafio tipo datos variables\bin\Debug\Desafio tipo datos variables.exe.config
+C:\Users\moise\Documents\Porgramacion\C#\Desafio tipo datos variables\Desafio tipo datos variables\bin\Debug\Desafio tipo datos variables.exe
+C:\Users\moise\Documents\Porgramacion\C#\Desafio tipo datos variables\Desafio tipo datos variables\bin\Debug\Desafio tipo datos variables.pdb
+C:\Users\moise\Documents\Porgramacion\C#\Desafio tipo datos variables\Desafio tipo datos variables\obj\Debug\Desafio tipo datos variables.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\Porgramacion\C#\Desafio tipo datos variables\Desafio tipo datos variables\obj\Debug\Desafio tipo datos variables.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Documents\Porgramacion\C#\Desafio tipo datos variables\Desafio tipo datos variables\obj\Debug\Desafio tipo datos variables.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\Porgramacion\C#\Desafio tipo datos variables\Desafio tipo datos variables\obj\Debug\Desafio tipo datos variables.exe
+C:\Users\moise\Documents\Porgramacion\C#\Desafio tipo datos variables\Desafio tipo datos variables\obj\Debug\Desafio tipo datos variables.pdb

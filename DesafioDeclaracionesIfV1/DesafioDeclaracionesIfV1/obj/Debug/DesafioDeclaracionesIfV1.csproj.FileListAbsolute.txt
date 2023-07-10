@@ -1,0 +1,8 @@
+C:\Users\moise\Documents\Porgramacion\C#\DesafioDeclaracionesIfV1\DesafioDeclaracionesIfV1\obj\Debug\DesafioDeclaracionesIfV1.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\Porgramacion\C#\DesafioDeclaracionesIfV1\DesafioDeclaracionesIfV1\obj\Debug\DesafioDeclaracionesIfV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Documents\Porgramacion\C#\DesafioDeclaracionesIfV1\DesafioDeclaracionesIfV1\obj\Debug\DesafioDeclaracionesIfV1.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\Porgramacion\C#\DesafioDeclaracionesIfV1\DesafioDeclaracionesIfV1\bin\Debug\DesafioDeclaracionesIfV1.exe.config
+C:\Users\moise\Documents\Porgramacion\C#\DesafioDeclaracionesIfV1\DesafioDeclaracionesIfV1\bin\Debug\DesafioDeclaracionesIfV1.exe
+C:\Users\moise\Documents\Porgramacion\C#\DesafioDeclaracionesIfV1\DesafioDeclaracionesIfV1\bin\Debug\DesafioDeclaracionesIfV1.pdb
+C:\Users\moise\Documents\Porgramacion\C#\DesafioDeclaracionesIfV1\DesafioDeclaracionesIfV1\obj\Debug\DesafioDeclaracionesIfV1.exe
+C:\Users\moise\Documents\Porgramacion\C#\DesafioDeclaracionesIfV1\DesafioDeclaracionesIfV1\obj\Debug\DesafioDeclaracionesIfV1.pdb

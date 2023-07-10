@@ -1,0 +1,8 @@
+C:\Users\moise\Documents\Porgramacion\C#\MundoHola\MundoHola\bin\Debug\MundoHola.exe.config
+C:\Users\moise\Documents\Porgramacion\C#\MundoHola\MundoHola\bin\Debug\MundoHola.exe
+C:\Users\moise\Documents\Porgramacion\C#\MundoHola\MundoHola\bin\Debug\MundoHola.pdb
+C:\Users\moise\Documents\Porgramacion\C#\MundoHola\MundoHola\obj\Debug\MundoHola.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\Porgramacion\C#\MundoHola\MundoHola\obj\Debug\MundoHola.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Documents\Porgramacion\C#\MundoHola\MundoHola\obj\Debug\MundoHola.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\Porgramacion\C#\MundoHola\MundoHola\obj\Debug\MundoHola.exe
+C:\Users\moise\Documents\Porgramacion\C#\MundoHola\MundoHola\obj\Debug\MundoHola.pdb

@@ -1,0 +1,8 @@
+C:\Users\moise\Documents\Porgramacion\C#\ParingStringAInteger\ParingStringAInteger\bin\Debug\ParingStringAInteger.exe.config
+C:\Users\moise\Documents\Porgramacion\C#\ParingStringAInteger\ParingStringAInteger\bin\Debug\ParingStringAInteger.exe
+C:\Users\moise\Documents\Porgramacion\C#\ParingStringAInteger\ParingStringAInteger\bin\Debug\ParingStringAInteger.pdb
+C:\Users\moise\Documents\Porgramacion\C#\ParingStringAInteger\ParingStringAInteger\obj\Debug\ParingStringAInteger.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\Porgramacion\C#\ParingStringAInteger\ParingStringAInteger\obj\Debug\ParingStringAInteger.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Documents\Porgramacion\C#\ParingStringAInteger\ParingStringAInteger\obj\Debug\ParingStringAInteger.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\Porgramacion\C#\ParingStringAInteger\ParingStringAInteger\obj\Debug\ParingStringAInteger.exe
+C:\Users\moise\Documents\Porgramacion\C#\ParingStringAInteger\ParingStringAInteger\obj\Debug\ParingStringAInteger.pdb

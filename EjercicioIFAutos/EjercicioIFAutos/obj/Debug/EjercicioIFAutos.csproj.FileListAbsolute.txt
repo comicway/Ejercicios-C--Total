@@ -1,0 +1,8 @@
+C:\Users\moise\Documents\Porgramacion\C#\EjercicioIFAutos\EjercicioIFAutos\obj\Debug\EjercicioIFAutos.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\Porgramacion\C#\EjercicioIFAutos\EjercicioIFAutos\obj\Debug\EjercicioIFAutos.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Documents\Porgramacion\C#\EjercicioIFAutos\EjercicioIFAutos\obj\Debug\EjercicioIFAutos.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\Porgramacion\C#\EjercicioIFAutos\EjercicioIFAutos\bin\Debug\EjercicioIFAutos.exe.config
+C:\Users\moise\Documents\Porgramacion\C#\EjercicioIFAutos\EjercicioIFAutos\bin\Debug\EjercicioIFAutos.exe
+C:\Users\moise\Documents\Porgramacion\C#\EjercicioIFAutos\EjercicioIFAutos\bin\Debug\EjercicioIFAutos.pdb
+C:\Users\moise\Documents\Porgramacion\C#\EjercicioIFAutos\EjercicioIFAutos\obj\Debug\EjercicioIFAutos.exe
+C:\Users\moise\Documents\Porgramacion\C#\EjercicioIFAutos\EjercicioIFAutos\obj\Debug\EjercicioIFAutos.pdb

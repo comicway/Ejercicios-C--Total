@@ -1,0 +1,8 @@
+C:\Users\moise\Documents\Porgramacion\C#\TareaDeclaracionesIFV2\TareaDeclaracionesIFV2\bin\Debug\TareaDeclaracionesIFV2.exe.config
+C:\Users\moise\Documents\Porgramacion\C#\TareaDeclaracionesIFV2\TareaDeclaracionesIFV2\bin\Debug\TareaDeclaracionesIFV2.exe
+C:\Users\moise\Documents\Porgramacion\C#\TareaDeclaracionesIFV2\TareaDeclaracionesIFV2\bin\Debug\TareaDeclaracionesIFV2.pdb
+C:\Users\moise\Documents\Porgramacion\C#\TareaDeclaracionesIFV2\TareaDeclaracionesIFV2\obj\Debug\TareaDeclaracionesIFV2.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\Porgramacion\C#\TareaDeclaracionesIFV2\TareaDeclaracionesIFV2\obj\Debug\TareaDeclaracionesIFV2.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Documents\Porgramacion\C#\TareaDeclaracionesIFV2\TareaDeclaracionesIFV2\obj\Debug\TareaDeclaracionesIFV2.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\Porgramacion\C#\TareaDeclaracionesIFV2\TareaDeclaracionesIFV2\obj\Debug\TareaDeclaracionesIFV2.exe
+C:\Users\moise\Documents\Porgramacion\C#\TareaDeclaracionesIFV2\TareaDeclaracionesIFV2\obj\Debug\TareaDeclaracionesIFV2.pdb

@@ -1,0 +1,8 @@
+C:\Users\moise\Documents\Porgramacion\C#\DesafioCondicionalesV1\DesafioCondicionalesV1\bin\Debug\DesafioCondicionalesV1.exe.config
+C:\Users\moise\Documents\Porgramacion\C#\DesafioCondicionalesV1\DesafioCondicionalesV1\bin\Debug\DesafioCondicionalesV1.exe
+C:\Users\moise\Documents\Porgramacion\C#\DesafioCondicionalesV1\DesafioCondicionalesV1\bin\Debug\DesafioCondicionalesV1.pdb
+C:\Users\moise\Documents\Porgramacion\C#\DesafioCondicionalesV1\DesafioCondicionalesV1\obj\Debug\DesafioCondicionalesV1.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\Porgramacion\C#\DesafioCondicionalesV1\DesafioCondicionalesV1\obj\Debug\DesafioCondicionalesV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Documents\Porgramacion\C#\DesafioCondicionalesV1\DesafioCondicionalesV1\obj\Debug\DesafioCondicionalesV1.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\Porgramacion\C#\DesafioCondicionalesV1\DesafioCondicionalesV1\obj\Debug\DesafioCondicionalesV1.exe
+C:\Users\moise\Documents\Porgramacion\C#\DesafioCondicionalesV1\DesafioCondicionalesV1\obj\Debug\DesafioCondicionalesV1.pdb

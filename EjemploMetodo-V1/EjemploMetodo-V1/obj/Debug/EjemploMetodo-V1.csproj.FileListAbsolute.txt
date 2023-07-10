@@ -1,0 +1,8 @@
+C:\Users\moise\Documents\Porgramacion\C#\EjemploMetodo-V1\EjemploMetodo-V1\bin\Debug\EjemploMetodo-V1.exe.config
+C:\Users\moise\Documents\Porgramacion\C#\EjemploMetodo-V1\EjemploMetodo-V1\bin\Debug\EjemploMetodo-V1.exe
+C:\Users\moise\Documents\Porgramacion\C#\EjemploMetodo-V1\EjemploMetodo-V1\bin\Debug\EjemploMetodo-V1.pdb
+C:\Users\moise\Documents\Porgramacion\C#\EjemploMetodo-V1\EjemploMetodo-V1\obj\Debug\EjemploMetodo-V1.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\Porgramacion\C#\EjemploMetodo-V1\EjemploMetodo-V1\obj\Debug\EjemploMetodo-V1.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Documents\Porgramacion\C#\EjemploMetodo-V1\EjemploMetodo-V1\obj\Debug\EjemploMetodo-V1.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\Porgramacion\C#\EjemploMetodo-V1\EjemploMetodo-V1\obj\Debug\EjemploMetodo-V1.exe
+C:\Users\moise\Documents\Porgramacion\C#\EjemploMetodo-V1\EjemploMetodo-V1\obj\Debug\EjemploMetodo-V1.pdb

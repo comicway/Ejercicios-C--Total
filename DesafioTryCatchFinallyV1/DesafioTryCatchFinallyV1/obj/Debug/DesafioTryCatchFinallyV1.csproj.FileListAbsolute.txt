@@ -1,0 +1,8 @@
+C:\Users\moise\Documents\Porgramacion\C#\DesafioTryCatchFinallyV1\DesafioTryCatchFinallyV1\obj\Debug\DesafioTryCatchFinallyV1.csproj.AssemblyReference.cache
+C:\Users\moise\Documents\Porgramacion\C#\DesafioTryCatchFinallyV1\DesafioTryCatchFinallyV1\obj\Debug\DesafioTryCatchFinallyV1.csproj.SuggestedBindingRedirects.cache
+C:\Users\moise\Documents\Porgramacion\C#\DesafioTryCatchFinallyV1\DesafioTryCatchFinallyV1\obj\Debug\DesafioTryCatchFinallyV1.csproj.CoreCompileInputs.cache
+C:\Users\moise\Documents\Porgramacion\C#\DesafioTryCatchFinallyV1\DesafioTryCatchFinallyV1\bin\Debug\DesafioTryCatchFinallyV1.exe.config
+C:\Users\moise\Documents\Porgramacion\C#\DesafioTryCatchFinallyV1\DesafioTryCatchFinallyV1\bin\Debug\DesafioTryCatchFinallyV1.exe
+C:\Users\moise\Documents\Porgramacion\C#\DesafioTryCatchFinallyV1\DesafioTryCatchFinallyV1\bin\Debug\DesafioTryCatchFinallyV1.pdb
+C:\Users\moise\Documents\Porgramacion\C#\DesafioTryCatchFinallyV1\DesafioTryCatchFinallyV1\obj\Debug\DesafioTryCatchFinallyV1.exe
+C:\Users\moise\Documents\Porgramacion\C#\DesafioTryCatchFinallyV1\DesafioTryCatchFinallyV1\obj\Debug\DesafioTryCatchFinallyV1.pdb
